@@ -1,0 +1,1 @@
+Shift S: Cursor context menu (can move object to cursor)
